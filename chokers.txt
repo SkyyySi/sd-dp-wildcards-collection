@@ -1,0 +1,12 @@
+choker, {__waifus/colors__|4::black} choker
+neck bell, {__waifus/colors__|4::black} choker
+choker, {__waifus/colors__|4::black} choker, frilled choker
+choker, {__waifus/colors__|4::black} choker, heart choker
+choker, {__waifus/colors__|4::black} choker, star choker
+choker, {__waifus/colors__|4::black} choker, o-ring choker
+choker, {__waifus/colors__|4::black} choker, bow choker
+choker, {__waifus/colors__|4::black} choker, pedant choker
+choker, {__waifus/colors__|4::black} choker, cross choker
+choker, {__waifus/colors__|4::black} choker, ribbon choker, neck ribbon
+choker, {__waifus/colors__|4::black} choker, spked ribbon
+choker, {__waifus/colors__|4::black} choker, lace trim, lace ribbon

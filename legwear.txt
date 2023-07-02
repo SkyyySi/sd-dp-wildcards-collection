@@ -1,0 +1,6 @@
+bare legs
+shorts{2::|, __waifus/secondary_legwear__}{|, __waifus/footwear__}
+shorts, denim shorts, short shorts{2::|, __waifus/secondary_legwear__}{|, __waifus/footwear__}
+jeans, pants{|, __waifus/footwear__}
+pantyhose, pants{|, __waifus/footwear__}
+__waifus/secondary_legwear__{|, __waifus/footwear__}

@@ -1,0 +1,20 @@
+((kimono)), (__waifus/colors__ kimono), obi, miko, japanese clothes, long sleeves, detached sleeves
+((ninja)), scarf, (__waifus/colors__ clothes), {crop top, naval|dress, short dress, cleavage cutout, cleavage}, sleeveless{|, mask, (mouth mask)}{|, katana, holding sword}, {bare legs|thighhighs|single thighhigh}, {shorts|skirt, miniskirt|panties}, gloves, fingerless gloves, elbow gloves, fishnets, (geta)
+chinese clothes{|, cleavage cutout}{|, bodystocking}, ((china dress)), (__waifus/colors__ clothes){|, pantyhose, pants}
+bodysuit, playboy bunny, (__waifus/colors__ clothes), cleavage, ass, rabbit ears, rabbit tail, {wrist cuffs|gloves, elbow gloves}, bowtie, thick thighs, ({pantyhose|thighhighs|bare legs}), high heels, shiny clothes
+((maid)), victorian maid, dress, long dress, long sleeves, frilled dress, black dress, maid headdress, maid apron, cleavage, thighhighs, garter straps, {open|10::closed} mouth
+((school uniform)), ({black|2::white} shirt), long sleeves, collar, serafuku, sailor collar, (__waifus/colors__ collar), neckerchief, (__waifus/colors__ neckerchief), skirt, miniskirt, (__waifus/colors__ skirt), short skirt, thighhighs{|, __waifus/neckwear__}
+((sweater)), {beige|3::__waifus/colors__} sweater, contemporary, ribbed sweater, long sleeves, {off shoulder, off-shoulder sweater, bare shoulders, bra straps{|, __waifus/neckwear__}|turtleneck, turtleneck sweater{|, __waifus/necklaces__}}, {|2::, __waifus/legwear__}
+((bikini)){|, string bikini|, frilled bikini|, shiny bikini, latex bikini}, (__waifus/colors__ bikini){|, __waifus/neckwear__}, beach,
+((office lady)), shirt, white shirt, long sleeves, skirt, miniskirt, shiny skirt, choker, thighhighs, garter straps, black skirt, open shirt
+egyptian, egyptian clothes, indian clothes, arabian clothes, gerudo, jewelry, gold, gem, golden headband, golden neckband, golden dress, __waifus/colors__ dress, ring, earrings, wristband, thigh strap{|2::, belly dancing, arms up, hands above head}
+((wedding dress)), bridal veil, veil, white dress, frilled dress, lace, lace trim, holding flower, long sleeves, long dress, frilled sleeves, makeup, lipstick, thick lips, visual novel, dating sim
+swimsuit, one-piece swimsuit, competition swimsuit, wet, wet hair, water drop, sweatdrop
+gothic, black clothes, (((contemporary))), t-shirt, long sleeves, miniskirt, skirt, black skirt, chains, fishnets, fishnet legwear, single thighhigh, choker, black choker, spiked choker, black footwear, boots, ankle boots, armband, spiked armband, thigh strap, spiked thighstrap, jacket, black jacket
+((magical girl)), magic, wizard hat, vision \(genshin impact\), wand, casting spell, dress, short dress, __waifus/colors__ dress, skirt, miniskirt, __waifus/colors__ skirt
+nightgown, see-through, __waifus/colors__ nightgown, underwear, bra, panties
+((lingerie)), underwear, underwear only, lace, lace trim, bra, lace-trimmed bra, panties, lace-trimmed panties, thighhighs, lace-trimmed legwear, garter straps, garter belt, choker, lace-trimmed choker, ribbon choker, neck ribbon, gloves, half gloves, lace-trimmed gloves
+((dress, __waifus/colors__ dress)), ({long sleeves|sleeveless dress}), frilled dress, lace-trimmed dress, lace, lace trim, corset, skirt, lace-trimmed skirt, {choker, lace-trimmed choker, frilled choker, ribbon choker, neck ribbon|__waifus/neckwear__}, gloves, half gloves, lace-trimmed gloves, flower, princess, noble, diadem, jewelry
+idolmaster, ((idol)), alternate costume, multicolored clothes, multicolored dress, ((colorful)), stage, ribbon, ((((idol clothes)))), frills, turtleneck dress, sleeveless dress, microphone
+((tank top)), __waifus/colors__ tank top, cleavage, sleeveless{|, crop top, naval}, __waifus/legwear__{|, __waifus/neckwear__}, hot, sweat
+((t-shirt)), (__waifus/colors__ t-shirt), crop top, short sleeves, {choker, black choker|__waifus/neckwear__}, {shorts, short shorts, denim shorts, thighhighs, fishnets, fishnet thighhighs, boots, thigh boots, black footwear, thigh strap|__waifus/legwear__}
